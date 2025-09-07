@@ -1,0 +1,6 @@
+C:\Users\Cv\source\repos\PakistanTrainingManagementPlatform\PakistanTrainingManagementPlatform.Entities\bin\Debug\PakistanTrainingManagementPlatform.Entities.dll
+C:\Users\Cv\source\repos\PakistanTrainingManagementPlatform\PakistanTrainingManagementPlatform.Entities\bin\Debug\PakistanTrainingManagementPlatform.Entities.pdb
+C:\Users\Cv\source\repos\PakistanTrainingManagementPlatform\PakistanTrainingManagementPlatform.Entities\obj\Debug\PakistanTrainingManagementPlatform.Entities.csprojAssemblyReference.cache
+C:\Users\Cv\source\repos\PakistanTrainingManagementPlatform\PakistanTrainingManagementPlatform.Entities\obj\Debug\PakistanTrainingManagementPlatform.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Cv\source\repos\PakistanTrainingManagementPlatform\PakistanTrainingManagementPlatform.Entities\obj\Debug\PakistanTrainingManagementPlatform.Entities.dll
+C:\Users\Cv\source\repos\PakistanTrainingManagementPlatform\PakistanTrainingManagementPlatform.Entities\obj\Debug\PakistanTrainingManagementPlatform.Entities.pdb
